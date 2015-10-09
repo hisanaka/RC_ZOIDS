@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RC_ZOIDS</string>
+    <string name="search_device">Search</string>
+    <string name="searching_label">Searching&#8230;</string>
+
+    <string name="unsupported_bluetooth">Unsupported Bluetooth.</string>
+    <string name="congest_label">Connection is congested. Re-try later.</string>
+    <string name="disconnect_label">Disconnected.</string>
+    <string name="service_detection_fail">Failed to detect service.</string>
+    <string name="wrong_device">It might be a wrong device</string>
+    <string name="not_found">%1$s not found.</string>
+    <string name="write_char_fail">Failed to write characteristic: %1$s</string>
+
+    <string name="service">service</string>
+    <string name="characteristic">characteristic</string>
+
+    <string name="ok_label">OK</string>
+</resources>
